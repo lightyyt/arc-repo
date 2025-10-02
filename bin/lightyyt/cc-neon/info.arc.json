@@ -1,0 +1,9 @@
+{
+    "name":"CC: NEON",
+    "desc":"A BIOS/UEFI-Like System for your Computer!",
+    "creator": "Lighty (@lightyyt)",
+    "latest": "0.1-dev",
+    "versions": {
+        "0.1-dev": "https://github.com/lightyyt/cc-neon/releases/download/0.1-dev/install.lua"
+    }
+}
