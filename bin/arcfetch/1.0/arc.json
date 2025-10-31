@@ -4,6 +4,9 @@
         "version":"1.0"  
     }],
     "bin":["arcfetch.lua"],
+    "alias":{
+        "arcfetch":"/bin/arcfetch.lua"
+    },
     "lib":[],
     "etc":["arcfetch/","arcfetch/sprite.spr"]
 }  

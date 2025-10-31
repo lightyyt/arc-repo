@@ -1,5 +1,6 @@
 {
     "dependencies": [],
+    "alias":{},
     "bin":[],
     "lib":["spriter.lua"],
     "etc":[]
