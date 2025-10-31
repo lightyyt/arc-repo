@@ -1,0 +1,9 @@
+{
+    "dependencies": [{
+        "name":"libspriter",
+        "version":"1.0"  
+    }],
+    "bin":["arcfetch.lua"],
+    "lib":[],
+    "etc":[]
+}
