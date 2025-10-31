@@ -5,5 +5,5 @@
     }],
     "bin":["arcfetch.lua"],
     "lib":[],
-    "etc":["arcfetch/","sprite.spr"]
+    "etc":["arcfetch/","arcfetch/sprite.spr"]
 }  
