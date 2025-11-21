@@ -1,7 +1,7 @@
-local spriter = require("/photon/lib/spriter")
+local spriter = photon.lib.spriter
 
 local x,y = term.getCursorPos()
-local y,w,h = spriter.fshow(1, y+1,"/photon/etc/arcfetch/sprite.spr")
+local y,w,h = spriter.fshow(1, y+1,"/etc/arcfetch/sprite.spr")
 
 function at(off, text)
     term.setCursorPos(x+w+1,y+off)
